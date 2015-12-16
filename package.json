@@ -2,15 +2,15 @@
   "name": "kneejerk",
   "version": "0.1.0",
   "description": "Server Side React Render",
-  "author": "Colin J. Ihrig <cjihrig@gmail.com> (http://www.cjihrig.com/)",
+  "author": "Continuation Labs <contact@continuation.io> (http://continuation.io/)",
   "main": "lib/index.js",
-  "homepage": "https://github.com/cjihrig/kneejerk",
+  "homepage": "https://github.com/continuationlabs/kneejerk",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cjihrig/kneejerk"
+    "url": "https://github.com/continuationlabs/kneejerk"
   },
   "bugs": {
-    "url": "https://github.com/cjihrig/kneejerk/issues"
+    "url": "https://github.com/continuationlabs/kneejerk/issues"
   },
   "license": "MIT",
   "scripts": {
