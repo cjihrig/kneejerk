@@ -3,8 +3,8 @@
 [![Current Version](https://img.shields.io/npm/v/kneejerk.svg)](https://www.npmjs.org/package/kneejerk)
 [![Build Status via Travis CI](https://travis-ci.org/continuationlabs/kneejerk.svg?branch=master)](https://travis-ci.org/continuationlabs/kneejerk)
 ![Dependencies](http://img.shields.io/david/continuationlabs/kneejerk.svg)
+[![belly-button-style](https://img.shields.io/badge/eslint-bellybutton-4B32C3.svg)](https://github.com/continuationlabs/belly-button)
 
-[![belly-button-style](https://cdn.rawgit.com/continuationlabs/belly-button/master/badge.svg)](https://github.com/continuationlabs/belly-button)
 
 `KneeJerk` is a minimal utility for server side React rendering. `KneeJerk` is server framework agnostic. You simply pass in a `react-router` configuration and URL, and `KneeJerk` renders the HTML using `react-router`. You can optionally pass in a root component to wrap the router output in order to achieve full page rendering.
 
